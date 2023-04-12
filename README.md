@@ -1,7 +1,5 @@
 # Tutorial-Comandos-Staff
 
-<h1>Tutorial Comandos Staff </h1>
-
 <h2> Primeira Etapa: Colocar o Resource no seu servidor</h2>
 
 Coloque o resource RSC_Comandos_Staff no seu servidor logo após certificar que o mesmo esta aparecendo no Painel P
